@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12amogha&show_icons=true&locale=en" alt="12amogha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=12amogha&" alt="12amogha" /></p>
+
+[![An image of @12amogha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/12amogha)](https://holopin.io/@12amogha)
