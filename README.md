@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/12amogha" target="blank"><img src="https://img.shields.io/twitter/follow/12amogha?logo=twitter&style=for-the-badge" alt="12amogha" /></a> </p>
 
-- 🌱 **Would love to Collaborate!**
+- 🌱 **Problem-Solver**
 - 👨‍💻 All of my projects are available at [https://github.com/12amogha?tab=repositories](https://github.com/12amogha?tab=repositories)
 
 
