@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/12amogha" target="blank"><img src="https://img.shields.io/twitter/follow/12amogha?logo=twitter&style=for-the-badge" alt="12amogha" /></a> </p>
 
 - 🌱 **Happy to collaborate!**
-- 💫 My Interests : Deep Learning, Generative AI and Robotics 
+- 💫 My Interests : Deep Learning, Robotics
 - 👨‍💻 All of my projects are available at [https://github.com/12amogha?tab=repositories](https://github.com/12amogha?tab=repositories)
 
 
